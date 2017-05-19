@@ -1,0 +1,2 @@
+mklink /d C:\Users\PK\Documents\Derivative\Palette C:\Users\PK\Dropbox\0TOOLBOX\TD\TD_Palette
+symbolic link created for C:\Users\PK\Documents\Derivative\Palette <<===>> C:\Users\PK\Dropbox\0TOOLBOX\TD\TD_Palette
